@@ -1,0 +1,4 @@
+localhost
+oferta_gastronomica
+root
+adm123
